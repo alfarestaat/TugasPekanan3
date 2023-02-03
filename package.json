@@ -1,17 +1,26 @@
 {
   "name": "tugaspekanan3",
   "version": "1.0.0",
-  "description": "Tugas Pekanan 3 Alfaresta",
+  "description": "Tugas Pekanan 3 SanberCode Alfaresta",
   "main": "soal1.js",
-  "dependencies": {
-    "ansi-regex": "^4.1.1",
-    "prompt-sync": "^4.2.0",
-    "strip-ansi": "^5.2.0"
-  },
   "scripts": {
-    "file1": "node soal1.js",
-    "file2": "node soal2.js"
+    "soal1": "node soal1.js",
+    "soal2": "node soal2.js"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfarestaat/TugasPekanan3.git"
+  },
+  "keywords": [
+    "Tugas"
+  ],
+  "author": "Alfaresta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfarestaat/TugasPekanan3/issues"
+  },
+  "homepage": "https://github.com/alfarestaat/TugasPekanan3#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
