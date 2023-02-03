@@ -14,3 +14,5 @@ Penjelasan script soal nomor 1:
 
 Penjelasan script soal nomor 2:
 Ketika sudah menjalankan script, maka akan muncul hasil dari penjumlahan quantity pada response API tersebut yaitu total quantitynya adalah 157
+
+Video recording hasil tugas: https://drive.google.com/file/d/17bXQeQEnJkJ0U-aWDpJ-I4OQWsjGgYM5/view?usp=sharing
