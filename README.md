@@ -1,5 +1,5 @@
 # TugasPekanan3
-Tugas Pekanan 3 (SanberCode - Alfaresta)
+Tugas Pekanan 3 - Javascript Introduction (SanberCode - Alfaresta)
 
 Langkah-langkah awal:
 1. Install npm dengan
