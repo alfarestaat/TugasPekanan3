@@ -2,8 +2,14 @@
 Tugas Pekanan 3 (SanberCode - Alfaresta)
 
 Cara menjalankan script:
-1. Jika ingin menjalankan script soal nomor 1, maka ketik perintah pada terminal "npm run soal1"
-2. Jika ingin menjalankan script soal nomor 2, maka ketik perintah pada terminal "npm run soal2"
+1. Jika ingin menjalankan script soal nomor 1, maka ketik perintah pada terminal:
+```
+npm run soal1
+```
+2. Jika ingin menjalankan script soal nomor 2, maka ketik perintah pada terminal:
+```
+npm run soal2
+```
 
 Penjelasan script soal nomor 1:
 1. Ketika sudah menjalankan script, maka akan muncul "Masukkan Angka: "
