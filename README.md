@@ -1,6 +1,16 @@
 # TugasPekanan3
 Tugas Pekanan 3 (SanberCode - Alfaresta)
 
+Langkah-langkah awal:
+1. Install npm dengan
+```
+npm install
+```
+2. Install prompt-sync:
+```
+npm i prompt-sync
+```
+
 Cara menjalankan script:
 1. Jika ingin menjalankan script soal nomor 1, maka ketik perintah pada terminal:
 ```
