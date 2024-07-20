@@ -6,5 +6,5 @@ if (x < 0) {
 } else if (x % 2 !== 0) {
   console.log("Tidak bisa input bilangan ganjil");
 } else {
-  console.log("Hasil akar pangkat 2 dari ", x,"adalah",Math.sqrt(x));
+  console.log("Hasil akar pangkat 2 dari", x,"adalah",Math.sqrt(x));
 }

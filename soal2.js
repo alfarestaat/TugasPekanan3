@@ -39,6 +39,7 @@ let productBin = {
   for (let i = 0; i < productBin.data.length; i++) {
     let product = productBin.data[i];
     if (product.productCode === "FBR00040101") {
+      console.log("Quantity dari product code", product.productCode, "adalah", product.quantity);
       totalQuantity += product.quantity;
     }
   }
